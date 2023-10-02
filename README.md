@@ -66,5 +66,5 @@ I am ISLAM WALIED back-end Developer and Computer Science Student<img src="https
   <a href="https://bootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/>
   </a>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="70" height="70"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
  </p>
