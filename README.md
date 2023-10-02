@@ -5,5 +5,5 @@
 
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=islam-walied&logoColor=blue" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=eslam.waled&logoColor=gray" alt="Facebook Badge"/>
+  <img src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=eslam.waled&logoColor=red" alt="Facebook Badge"/>
 </div>
